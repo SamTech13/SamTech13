@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamTech13
+- 👋 Hi, I’m Soffiyah Abdur Razaq
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking foward to collaborate on different project and connect with likeminds
